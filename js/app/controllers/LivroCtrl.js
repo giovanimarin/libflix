@@ -1,0 +1,1 @@
+define(['./module'], function (controllers) {    'use strict';    controllers.controller('LivroCtrl', function ($scope) {		$scope.message = 'LivroCtrl';	});});

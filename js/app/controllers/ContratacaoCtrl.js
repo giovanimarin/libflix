@@ -1,0 +1,1 @@
+define(['./module'], function (controllers) {    'use strict';    controllers.controller('ContratacaoCtrl', function ($scope) {		$scope.message = 'ContratacaoCtrl';	});});

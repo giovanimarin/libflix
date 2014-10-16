@@ -1,0 +1,1 @@
+define([    './HomeCtrl',	'./ContratacaoCtrl',	'./LivroCtrl'], function () {});
